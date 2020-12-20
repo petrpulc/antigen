@@ -140,8 +140,8 @@
     "note": "Pro samopl\u00e1tce lze p\u0159edem vyplnit \u017e\u00e1danku  https://covid-ghc.com/",
     "reservation": "P\u0159es webov\u00e9 str\u00e1nky",
     "reservation_url": "https://reservatic.com/cs/public_services/ghc-genetics-s-r-o",
-    "lat": 50.1046158,
-    "lon": 14.4305628
+    "lat": "50.1046158",
+    "lon": "14.4305628"
   },
   {
     "uzis_url": "https://crs.uzis.cz/Antigen/Detail?id=1046761f-a71d-5f65-99a7-b041c184c6d1&backURL=/Antigen",
@@ -463,8 +463,8 @@
     "note": "21.12\r\n22.12      je  pracovn\u00ed doba pro antigenn\u00ed testy prodlou\u017eena 7.30---22 hodin\r\n\r\n23.12.",
     "reservation": "Telefonicky 775 863 113",
     "reservation_url": "https://reservatic.com/public_services/odberove-misto-nemocnice-tabor",
-    "lat": 49.4179069,
-    "lon": 14.6538411
+    "lat": "49.4179069",
+    "lon": "14.6538411"
   },
   {
     "uzis_url": "https://crs.uzis.cz/Antigen/Detail?id=c164793d-c297-5811-a250-21960f1d6b00&backURL=/Antigen",
@@ -523,8 +523,8 @@
     "note": "",
     "reservation": "P\u0159es webov\u00e9 str\u00e1nky",
     "reservation_url": "https://c19-ag.fnusa.cz/",
-    "lat": 49.1907825,
-    "lon": 16.6023386
+    "lat": "49.1907825",
+    "lon": "16.6023386"
   },
   {
     "uzis_url": "https://crs.uzis.cz/Antigen/Detail?id=849faaaf-d604-5b34-a364-56617ce3e3df&backURL=/Antigen",
@@ -691,8 +691,8 @@
     "note": "Odb\u011brov\u00e1 m\u00edstnost je v budov\u011b H, kapacita je 140 antigenn\u00edch test\u016f za den.",
     "reservation": "pouze p\u0159es webov\u00e9 str\u00e1nky",
     "reservation_url": "https://webext1.nemzn.cz/statim/",
-    "lat": 48.8694403,
-    "lon": 16.0508003
+    "lat": "48.8694403",
+    "lon": "16.0508003"
   },
   {
     "uzis_url": "https://crs.uzis.cz/Antigen/Detail?id=074791e9-1c71-5f72-a62a-3af0c5b7fc30&backURL=/Antigen",
@@ -703,8 +703,8 @@
     "note": "",
     "reservation": "P\u0159es webov\u00e9 str\u00e1nky",
     "reservation_url": "http://scan.anygence.com",
-    "lat": 49.1867417,
-    "lon": 16.6052683
+    "lat": "49.1867417",
+    "lon": "16.6052683"
   },
   {
     "uzis_url": "https://crs.uzis.cz/Antigen/Detail?id=328a090c-6f1a-5826-bdb9-d661aa587595&backURL=/Antigen",
@@ -833,8 +833,8 @@
     "note": "Podrobn\u00e9 informace na str\u00e1nk\u00e1ch www.fnhk.cz\r\nhttps://www.fnhk.cz/pacient-a-jeho-blizci/koronavirus-covid-19/uvod\r\nObjedn\u00e1n\u00ed se prov\u00e1d\u00ed online rezerva\u010dn\u00edm syst\u00e9mem.\r\n\r\nTelefonn\u00ed kontakt: 702 284 857 \r\n\r\nCentrum pro PCR odb\u011bry je v provozu denn\u011b od 7:30 do 18:30 hodin v\u010detn\u011b sv\u00e1tk\u016f.\r\nBez objedn\u00e1n\u00ed nen\u00ed mo\u017en\u00e9 zajistit proveden\u00ed odb\u011bru bez \u010dek\u00e1n\u00ed.\r\n\r\nAntigenn\u00ed odb\u011brov\u00e9 centrum je v provozu denn\u011b od 7:30 do 18:00 hodin v\u010detn\u011b v\u00edkend\u016f. \r\nJe nutn\u00e9 objedn\u00e1n\u00ed v rezerva\u010dn\u00edm syst\u00e9mu.",
     "reservation": "rezerva\u010dn\u00ed syst\u00e9m",
     "reservation_url": "https://reservatic.com/public_services/fakultni-nemocnice-hradec-kralove-antigenni-testy?place_id=2532",
-    "lat": 50.2003986,
-    "lon": 15.8269367
+    "lat": "50.2003986",
+    "lon": "15.8269367"
   },
   {
     "uzis_url": "https://crs.uzis.cz/Antigen/Detail?id=2cf338f0-6d6d-5ecf-b00f-c862c9bb01ed&backURL=/Antigen",
@@ -881,8 +881,8 @@
     "note": "Objedn\u00e1v\u00e1n\u00ed pacient\u016f p\u0159es rezerva\u010dn\u00ed syst\u00e9m na str\u00e1nk\u00e1ch nemocnice Rychnov nad Kn\u011b\u017enou\r\nV\u00edce informac\u00ed na webov\u00fdch str\u00e1nk\u00e1ch nemocnice Rychnov nad Kn\u011b\u017enou \r\nhttps://www.nemocnicenachod.cz/lokality/nemocnice-rychnov-nad-kneznou\r\nODEB\u00cdR\u00c1ME POUZE P\u0158EDEM OBJEDNAN\u00c9 PACIENTY.",
     "reservation": "Online na webu nemocnice Rychnov nad Kn\u011b\u017enou",
     "reservation_url": "https://oblastni-nemocnice-nachod-a-s-rk.reenio.cz/cs/#/terms",
-    "lat": 50.1679847,
-    "lon": 16.2707933
+    "lat": "50.1679847",
+    "lon": "16.2707933"
   },
   {
     "uzis_url": "https://crs.uzis.cz/Antigen/Detail?id=f8dfcaa4-e6dc-56c8-a9eb-35221a1e22ec&backURL=/Antigen",
@@ -1013,8 +1013,8 @@
     "note": "Antigenn\u00ed odb\u011brov\u00e9 centrum\r\ne-mail: antigen.oc@mnof.cz\r\n\u010d\u00edslo mobiln\u00edho telefonu 722 959 618, kontaktujte n\u00e1s pouze v pracovn\u00ed dob\u011b odb\u011brov\u00e9ho m\u00edsta\r\nAntigenn\u00ed odb\u011brov\u00e9 centrum je v budov\u011b D1.\r\nod 18.12.2020 rezervace p\u0159es centr\u00e1ln\u00ed rezerva\u010dn\u00ed syst\u00e9m Reservatic",
     "reservation": "p\u0159es webov\u00e9 str\u00e1nky, samopl\u00e1tci telefonicky nebo e-mailem",
     "reservation_url": "https://reservatic.com/cs/public_services/mestska-nemocnice-ostrava-prispevkova-organizace",
-    "lat": 49.8326458,
-    "lon": 18.2742908
+    "lat": "49.8326458",
+    "lon": "18.2742908"
   },
   {
     "uzis_url": "https://crs.uzis.cz/Antigen/Detail?id=c7962fea-c691-523b-9f37-58cc08c1482e&backURL=/Antigen",
@@ -1121,8 +1121,8 @@
     "note": "",
     "reservation": "P\u0159es webov\u00e9 str\u00e1nky",
     "reservation_url": "http://scan.anygence.com",
-    "lat": 49.8203322,
-    "lon": 18.2664731
+    "lat": "49.8203322",
+    "lon": "18.2664731"
   },
   {
     "uzis_url": "https://crs.uzis.cz/Antigen/Detail?id=4ec20fe7-d827-55aa-9527-cdeb0c007c31&backURL=/Antigen",
@@ -1181,8 +1181,8 @@
     "note": "O v\u00edkendech a st\u00e1tn\u00edch sv\u00e1tc\u00edch odb\u011bry neprov\u00e1d\u00edme.",
     "reservation": "P\u0159es webov\u00e9 str\u00e1nky",
     "reservation_url": "https://www.spadia.cz/verejnost/vysetreni/objednavka-vysetreni",
-    "lat": 49.8408042,
-    "lon": 18.2650158
+    "lat": "49.8408042",
+    "lon": "18.2650158"
   },
   {
     "uzis_url": "https://crs.uzis.cz/Antigen/Detail?id=5d9a4ebc-d340-5cb2-b97a-57ebe62bef88&backURL=/Antigen",
@@ -1301,8 +1301,8 @@
     "note": "Registrace na testy prob\u00edh\u00e1 prost\u0159ednictv\u00edm online formul\u00e1\u0159e a je povinn\u00e1 \u2013 https://nempk.reservio.com/ \u2013 p\u0159\u00edslu\u0161n\u00e9 rezervace jsou ozna\u010deny jako indikovan\u00ed a ANTIGENN\u00cd TEST \u2013 u\u010ditel\u00e9. \r\nPond\u011bl\u00ed\u2013p\u00e1tek: 10.30\u201313.00, \r\nOdb\u011brov\u00e9 m\u00edsto se nach\u00e1z\u00ed v budov\u011b vedle vr\u00e1tnice u hlavn\u00edho vstupu (budova b\u00fdval\u00e9 zdravotnick\u00e9 z\u00e1chrann\u00e9 slu\u017eby).",
     "reservation": "rezerva\u010dn\u00ed syst\u00e9m NPK, .a.s. - na str\u00e1nk\u00e1ch nemocnice",
     "reservation_url": "https://reservatic.com/cs/public_services/nemocnice-pardubickeho-kraje-a-s-chrudimska-nemocnice-antigenni-testovani",
-    "lat": 49.9422681,
-    "lon": 15.8073556
+    "lat": "49.9422681",
+    "lon": "15.8073556"
   },
   {
     "uzis_url": "https://crs.uzis.cz/Antigen/Detail?id=338177d6-8bff-57ba-8b02-29a0237a2050&backURL=/Antigen",
@@ -1373,8 +1373,8 @@
     "note": "",
     "reservation": "Online",
     "reservation_url": "https://reservatic.com/cs/public_services/scimed-biotechnologies-s-r-o-scimed-pardubice-zachytne-parkoviste-kasarna-t-g-masaryka",
-    "lat": 50.0222033,
-    "lon": 15.7735814
+    "lat": "50.0222033",
+    "lon": "15.7735814"
   },
   {
     "uzis_url": "https://crs.uzis.cz/Antigen/Detail?id=ff51348f-b97d-5996-8feb-c1901480830a&backURL=/Antigen",
@@ -1540,8 +1540,8 @@
     "note": "Pozn. P\u0159ednost maj\u00ed objednan\u00ed indikovan\u00ed pacienti, regulace je prov\u00e1d\u011bna p\u0159es objedn\u00e1vkov\u00fd formul\u00e1\u0159",
     "reservation": "P\u0159es webov\u00e9 str\u00e1nky",
     "reservation_url": "http://www.labin.cz",
-    "lat": 50.1436175,
-    "lon": 14.0943547
+    "lat": "50.1436175",
+    "lon": "14.0943547"
   },
   {
     "uzis_url": "https://crs.uzis.cz/Antigen/Detail?id=00c51356-8b99-5b08-bdef-bb3cc3b154fd&backURL=/Antigen",
@@ -1695,8 +1695,8 @@
     "note": "Infolinka pro odb\u011bry na\u0159\u00edzen\u00e9 KHS: 739590665\r\nVe dnech od 4.12. do 18.12. prob\u00edh\u00e1 antigenn\u00ed testov\u00e1n\u00ed pedagogick\u00fdch pracovn\u00edk\u016f tak\u00e9 formou odb\u011br\u016f prov\u00e1d\u011bn\u00fdch mobiln\u00edm odb\u011brov\u00fdm t\u00fdmem. Ve\u0161ker\u00e9 dotazy k antigenn\u00edm test\u016fm je mo\u017en\u00e9 z\u00edskat na telefonn\u00edm \u010d\u00edsle 603 376 475 v dob\u011b od 7.00 do 13.00 hodin.\r\nProvozn\u00ed doba odb\u011brov\u00e9ho centra na PCR testov\u00e1n\u00ed o v\u00e1no\u010dn\u00edch sv\u00e1tc\u00edch:\r\n24.12. od 7.00 do 12.00\r\n25. a 26.12. zav\u0159eno\r\n27.12. od 7.00 do 12.00\r\n31.12. od 7.00 do 12.00\r\n01.01. zav\u0159eno\r\n02.01. od 7.00 do 12.00\r\n03.01. od 7.00 do 12.00",
     "reservation": "P\u0159es webov\u00e9 str\u00e1nky",
     "reservation_url": "https://reservatic.com/cs/public_services/aoc-dum-kultury-mlada-boleslav",
-    "lat": 50.4177558,
-    "lon": 14.9118808
+    "lat": "50.4177558",
+    "lon": "14.9118808"
   },
   {
     "uzis_url": "https://crs.uzis.cz/Antigen/Detail?id=e631379f-77f5-5ef6-b2bb-bebc7ccfb899&backURL=/Antigen",
@@ -1886,8 +1886,8 @@
     "note": "",
     "reservation": "P\u0159es webov\u00e9 str\u00e1nky",
     "reservation_url": "https://www.prevedig.cz/objednani-covid.html",
-    "lat": 50.6866842,
-    "lon": 13.8855194
+    "lat": "50.6866842",
+    "lon": "13.8855194"
   },
   {
     "uzis_url": "https://crs.uzis.cz/Antigen/Detail?id=cb70ecce-63e8-5028-96fc-fe039d9b554d&backURL=/Antigen",
@@ -1994,8 +1994,8 @@
     "note": "",
     "reservation": "na tel. 564602602",
     "reservation_url": "https://www.nnm.cz/2020062601",
-    "lat": 49.5603203,
-    "lon": 16.0628156
+    "lat": "49.5603203",
+    "lon": "16.0628156"
   },
   {
     "uzis_url": "https://crs.uzis.cz/Antigen/Detail?id=d6b03dae-7fdd-51e3-8d0f-ce50c2d94cfc&backURL=/Antigen",
@@ -2065,8 +2065,8 @@
     "phone": "739408931",
     "note": "",
     "reservation": "Telefonicky",
-    "lat": 49.2054656,
-    "lon": 17.5361694
+    "lat": "49.2054656",
+    "lon": "17.5361694"
   },
   {
     "uzis_url": "https://crs.uzis.cz/Antigen/Detail?id=5ea516cb-389f-5fa2-b21e-b975bafe5be0&backURL=/Antigen",

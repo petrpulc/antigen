@@ -7,7 +7,8 @@ Protože ÚZIS neposkytuje podle nejlepšího vědomí seznam poskytovatelů jak
 musíme si je z přehledu vylámat sami.
 
 Navíc nejsou jednoduše získatelné ani souřadnice odběrných míst, proto se ptáme Nominatimu OSM
-a zbytek je opravený ručně za pomoci skriptu `manual_fill_coords.py` (z Mapy.cz).
+(pozor, některé souřadnice můžou být úplně mimo kvůli špatnému formátu adresy, viz. Tř. T. Bati 3910)
+a zbytek je doplněný ručně za pomoci skriptu `manual_fill_coords.py` (z Mapy.cz).
 
 Seznam aktuální k 20. prosinci 2020 je součástí repozitáře v souboru `providers.json`
 

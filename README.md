@@ -1,16 +1,8 @@
 # antigen
-Scraper pro zjišťování skutečně volné kapacity antigenních testů v reálném čase
+Scraper pro zjišťování skutečně volné kapacity PCR a antigenních testů v reálném čase
 
-## Krok první (volitelný): stažení seznamu poskytovatelů
+## Krok první: stažení seznamu poskytovatelů
 
-Protože ÚZIS neposkytuje podle nejlepšího vědomí seznam poskytovatelů jako otevřená data,
-musíme si je z přehledu vylámat sami.
+Přístup k datům o poskytovatatelích sice není nikde zdokumentovaný, ale je možné použít podkladová data z ArcGISu ÚZIS kde je úplně to samé jako na webu crs.uzis.cz.
 
-Navíc nejsou jednoduše získatelné ani souřadnice odběrných míst, proto se ptáme Nominatimu OSM
-(pozor, některé souřadnice můžou být úplně mimo kvůli špatnému formátu adresy, viz. Tř. T. Bati 3910)
-a zbytek je doplněný ručně za pomoci skriptu `manual_fill_coords.py` (z Mapy.cz).
-
-Seznam aktuální k 20. prosinci 2020 je součástí repozitáře v souboru `providers.json`
-
-Pro aktualizaci seznamu stačí spustit `./scrape_providers.py`
-(a doplnit souřadnice tam kde se nepodařily přeložit automaticky).
+Stačí tedy spustit `./get_providers.sh`

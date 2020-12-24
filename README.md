@@ -17,7 +17,7 @@ Aneb: nemá smysl kontrolovat kapacitu u poskytovatelů na druhé straně republ
 
 Závisí na poskytovateli rezervační služby, veřejné API je snem, ale nevím o žádném a všude rozhodně nebude existovat. Parsery je potřeba napsat pro: (SLD seřazené podle počtu poskytovatelů)
 
-- [ ] reservatic.com (78)
+- [x] reservatic.com (78)
 - [ ] reservio.com (16)
 - [ ] reservio.cz (11)
 - [ ] aeskulab.cz (10)
